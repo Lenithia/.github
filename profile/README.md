@@ -1,6 +1,6 @@
 ## Welcome to Lenithia 👋
 
-Here you can find all of my open-source minecraft plugins (and maybe more later)!
+Here you can find all of my open-source Minecraft plugins (and maybe more later)!
 
 <!--
 
